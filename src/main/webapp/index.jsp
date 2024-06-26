@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World William Git Hub Hook Rocks Yeah COOOOOOL !!!! </h2>
+<h2>Je modifie sous Vscode et ça deploie direct sur mon localhost tomcat !!!! </h2>
 </body>
 </html>
